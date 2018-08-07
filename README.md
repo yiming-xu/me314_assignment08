@@ -8,9 +8,9 @@ No special resources for this topic beyond the ones already listed on the course
 
 ### Assignment
 
-Work with the file [me314-assignment8-LASTNAME-FIRSTNAME.Rmd](me314-assignment8-LASTNAME-FIRSTNAME.Rmd).
+Work with the file [me314_assignment8_LASTNAME_FIRSTNAME.Rmd](me314_assignment8_LASTNAME_FIRSTNAME.Rmd).
 
-### Solution
+### Solution    
 
 (Will be added Friday 10 August)
 

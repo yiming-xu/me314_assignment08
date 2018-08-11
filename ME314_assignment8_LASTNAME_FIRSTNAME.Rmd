@@ -9,7 +9,7 @@ output: html_document
 Consider the `USArrests` data. We will now perform hierarchical clustering on the states.
 
 ```{r}
-library(ISLR)
+data("USArrests", package = "datasets")  # "package" argument optional here
 set.seed(2)
 ```
 

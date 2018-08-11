@@ -315,7 +315,7 @@ $(document).ready(function () {
 <div id="exercise-8.1" class="section level3">
 <h3>Exercise 8.1</h3>
 <p>Consider the <code>USArrests</code> data. We will now perform hierarchical clustering on the states.</p>
-<pre class="r"><code>library(ISLR)
+<pre class="r"><code>data(&quot;USArrests&quot;, package = &quot;datasets&quot;)  # &quot;package&quot; argument optional here
 set.seed(2)</code></pre>
 <ol style="list-style-type: lower-alpha">
 <li><p>Using hierarchical clustering with complete linkage and Euclidean distance, cluster the states.</p></li>
